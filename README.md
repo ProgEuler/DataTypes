@@ -1,6 +1,6 @@
 <h1>DATA TYPEs</h1>
 
-##Type	             Size (bytes)	                     Format Specifier
+Type	             Size (bytes)	                     Format Specifier
 int	                at least 2, usually 4	                 %d, %i
 char	             1	                                     %c
 float	             4	                                     %f
